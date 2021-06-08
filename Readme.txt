@@ -17,3 +17,10 @@ Heysem Kaya, Pınar Tüfekci , Sadık Fikret Gürgen: Local and Global Learning 
 
 Access Link :
 https://archive.ics.uci.edu/ml/datasets/combined+cycle+power+plant#
+
+
+OUTPUT:
+
+Download MLR Output.html
+
+Open MLR Output.html in browser to see actual results.
